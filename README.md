@@ -11,3 +11,12 @@ pip3 install -r requirements.txt
 
 python3 NGL-SpamBot.py
 ```
+
+# ScreenShot
+<center>
+<img src="screenshots/Screenshot_2022_1112_102935.png">
+<br>
+<img src="screenshots/IMG_20221112_103314.jpg">
+<br>
+<img src="screenshots/IMG_20221112_103334.jpg">
+</center>
