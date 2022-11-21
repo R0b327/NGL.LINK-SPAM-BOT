@@ -31,7 +31,8 @@ class NGL_Spammer:
 		{self._message}
 
 
-		-ngl.link SpamBot By R0b327
+		-SpamBot By R0b327
+		-GitHub: https://github.com/R0b327
 		"""
 
 	def start(self, spam):
